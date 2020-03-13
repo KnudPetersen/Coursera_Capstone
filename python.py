@@ -1,1 +1,4 @@
-print("Hello world!")
+
+tal = 10
+for i in range(tal):
+    print("Hello world!")
